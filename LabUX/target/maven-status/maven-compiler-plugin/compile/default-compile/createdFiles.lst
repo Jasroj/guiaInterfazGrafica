@@ -1,3 +1,2 @@
-logica\labux\Cliente.class
-logica\labux\LabUX.class
-logica\labux\Caja.class
+Controller\Banco$Cliente.class
+Controller\Banco.class
